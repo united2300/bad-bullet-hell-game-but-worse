@@ -4,7 +4,8 @@
 
 <br>
 
-
+**About the game:**
+Just another bad bullet hell game (But now its worse(er)!!!11!!1!)
 The game doesn't really have that great graphics since im currently focusing on the actual functionality of it rather than making some fancy smanchy stuff that'll break the moment i edit absoloutely anything.
 Thanks for understanding.
 
