@@ -15,11 +15,11 @@ Ram them all to death.
 
 CONTROLS:
 
-Arrow keys to move
+Arrow keys or WASD to move
 [SPACEBAR] to use [health potions]
 [Z] to use [speed potions]
 [X] to use [DPS potions]
-[C] to summon a friend (0.9 sec cooldown.)
+[C] to summon a friend (0.666 sec cooldown.)
 
 Walk into enemy squares to attack them 
 (and get exp if you manage to kill them)
@@ -40,34 +40,16 @@ More base stats + stronger summons
 ITEMS:
 
 Health potion - heals 20 hp
-Speed potion - buffs speed by 0.025
-DPS potion - buffs player attack by 0.25
+Speed potion - buffs speed by 0.025 permanently
+DPS potion - buffs player attack by 0.25 permanently
 
 
 
 ENEMIES:
 
-Red squares are weak and slow but spawn small annoying "traps" that lag the game a shit ton.
-Game made by Sandstorm. Please do not steal my stuff. Thanks
+Red squares are weak and slow. nothing to it.
 
-this guide is kinda outdated but might be useful ig
-also for some reason 60% of it is gone..?
-
-
-GUIDE:
-
-
-CONTROLS:
-
-WASD or arrow keys to move
-C to spawn angry circles
-X and C to use potions
-SPACEBAR to heal
-
-
-ENEMIES:
-
-Dark red squares are slightly stronger and faster
+Dark red squares are slightly stronger and faster than red squares
 
 Yellow squares are a bit stronger and way faster
 
@@ -75,16 +57,16 @@ Orange squares are even stronger but a bit slower
 
 Pink squares are strong speed demons. be careful around them.
 
-Purple squares, unlike the others, are smart and will shoot at you from a distance and move away from you when your too close. use summons to deal with them.
+Purple squares, unlike the others, are smart and will shoot at you from a distance and move away from you when your too close. use summons to deal with them. (and guess what, they debuff summons too just to spite you :D)
 
 Stronger enemies give more exp
 
 
 
 BOSSES:
-[Black squares] are boss enemies. They have ALOT of health but they dont do instant touch-damage, they do very low tick damage, however, in most cases it will still out-DPS you. remember to heal!
+[Black squares] are boss enemies. They have ALOT of health but they dont do instant touch-damage, instead they do very low tick damage, however, in most cases it will still out-DPS you. remember to heal and move away from the boss when your low on health!
 
-you cannot see your own hp when inside the black square.
+NOTE: you cannot see your own hp when inside the black square.
 
 [Black squares] are often accompanied by a large quantity
 of [Pink squares]. Beware the [Pink square horde].
@@ -100,3 +82,4 @@ of [Pink squares]. Beware the [Pink square horde].
 
 
 made by sandstorm / united2300
+please dont steal my stuff thanks.
