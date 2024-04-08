@@ -7,7 +7,6 @@ SUMMARY:
 You are a blue square.
 You are also horribly {motivated by others external colour}.
 All the other coloured squares hate you and want to kick you out of the great square village for being a blue-square supremacist.
-...However, you know some nice little circles who can help you.
 You must slaughter the other coloured squares.
 Ram them all to death.
 
