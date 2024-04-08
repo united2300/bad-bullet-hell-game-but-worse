@@ -1,0 +1,102 @@
+(this is kinda outdated but might still be helpful.)
+
+made by Sandstorm / united2300
+
+SUMMARY:
+
+You are a blue square.
+You are also horribly {motivated by others external colour}.
+All the other coloured squares hate you and want to kick you out of the great square village for being a blue-square supremacist.
+...However, you know some nice little circles who can help you.
+You must slaughter the other coloured squares.
+Ram them all to death.
+
+
+
+CONTROLS:
+
+Arrow keys to move
+[SPACEBAR] to use [health potions]
+[Z] to use [speed potions]
+[X] to use [DPS potions]
+[C] to summon a friend (0.9 sec cooldown.)
+
+Walk into enemy squares to attack them 
+(and get exp if you manage to kill them)
+Important: You also take damage when ramming.
+
+
+
+PLAYER STATS:
+Health: 100
+Attack/DPS: 5
+Speed: 5
+
+Upon leveling up:
+More base stats + stronger summons
+
+
+
+ITEMS:
+
+Health potion - heals 20 hp
+Speed potion - buffs speed by 0.025
+DPS potion - buffs player attack by 0.25
+
+
+
+ENEMIES:
+
+Red squares are weak and slow but spawn small annoying "traps" that lag the game a shit ton.
+Game made by Sandstorm. Please do not steal my stuff. Thanks
+
+this guide is kinda outdated but might be useful ig
+also for some reason 60% of it is gone..?
+
+
+GUIDE:
+
+
+CONTROLS:
+
+WASD or arrow keys to move
+C to spawn angry circles
+X and C to use potions
+SPACEBAR to heal
+
+
+ENEMIES:
+
+Dark red squares are slightly stronger and faster
+
+Yellow squares are a bit stronger and way faster
+
+Orange squares are even stronger but a bit slower
+
+Pink squares are strong speed demons. be careful around them.
+
+Purple squares, unlike the others, are smart and will shoot at you from a distance and move away from you when your too close. use summons to deal with them.
+
+Stronger enemies give more exp
+
+
+
+BOSSES:
+[Black squares] are boss enemies. They have ALOT of health but they dont do instant touch-damage, they do very low tick damage, however, in most cases it will still out-DPS you. remember to heal!
+
+you cannot see your own hp when inside the black square.
+
+[Black squares] are often accompanied by a large quantity
+of [Pink squares]. Beware the [Pink square horde].
+
+
+
+
+
+
+
+
+
+
+
+made by sandstorm / united2300
